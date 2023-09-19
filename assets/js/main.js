@@ -37,8 +37,11 @@ function updateLanguages(profileData) {
         return `
         <li>${languages.language}</li>
         <div class="w3-light-grey w3-round-xlarge">
-        <div class="w3-round-xlarge w3-deep-purple" style="height:24px;width:${languages.level}></div></div>`).join('')
+        <div class="w3-round-xlarge w3-deep-purple" style="height:24px;width:${languages.level}></div></div>
+        `
+    }).join('')
 }
+
 
 function updatePortfolio(profileData) {
     const portfolio = document.getElementById('profile.portfolio')
