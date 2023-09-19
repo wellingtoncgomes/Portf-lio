@@ -69,13 +69,23 @@
     ],
     "portfolio": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "name": "Chat-GPT",
+        "url": "https://github.com/wellingtoncgomes/Chat-GPT",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "desafio-cep-projeto-spring",
+        "url": "https://github.com/wellingtoncgomes/desafio-cep-projeto-spring",
+        "github": true
+      },
+      {
+        "name": "Cash-Control",
+        "url": "https://github.com/wellingtoncgomes/Cash-Control",
+        "github": true
+      },
+      {
+        "name": "pokedex ",
+        "url": "https://github.com/wellingtoncgomes/pokedex",
         "github": true
       }
     ],
