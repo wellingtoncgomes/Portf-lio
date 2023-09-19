@@ -58,7 +58,7 @@
 .information .email::before {
     background-image: url('/assets/img/icons/email.svg');
 }
-.information .contact::before {
+.information .phone::before {
     background-image: url('/assets/img/icons/contact.svg');
 }
 .information .location::before{

@@ -1,10 +1,10 @@
 {
     "name": "Wellington da Cruz Gomes",
-    "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-    "job": "Tech Lead no S3 Bank",
-    "location": "São Paulo - SP",
-    "phone": "(16) 98159-7656",
-    "email": "renanjohannsen@gmail.com",
+    "photo": "https://avatars.githubusercontent.com/u/113848478?s=96&v=4",
+    "job": "Software Developer",
+    "location": "Paulínia - SP",
+    "phone": "(19) 99167-2170",
+    "email": "wellington.cruzgomes@gmail.com",
     "skills": {
       "hardSkills": [
         {
@@ -34,7 +34,7 @@
       ],
       "softSkills": [
         "Empatia",
-        "Liderança",
+        "Comunicação",
         "Trabalho em equipe",
         "Flexibilidade",
         "Organização"
@@ -43,8 +43,7 @@
     "languages": [
       "Português BR",
       "Inglês (intermediário)",
-      "Espanhol (intermediário)",
-      "Italiano (iniciante)"
+      "Espanhol (intermediário)"
     ],
     "portfolio": [
       {
@@ -60,19 +59,31 @@
     ],
     "professionalExperience": [
       {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+        "name": "Conferente / Grupo Toniato",
+        "period": "2021 - 2023",
+        "description": " Checagem de matérias, organização, recebimento e expedição."
       },
       {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+        "name": "Operador / PetCamp",
+        "period": "2019 - 2021",
+        "description": "Checagem de matérias, organização, recebimento e expedição."
       },
       {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
-      }
+        "name": "Auxiliar de Almoxarifado / VB Transportes de Cargas LTDA",
+        "period": "2017 - 2019",
+        "description": "Lançamento de notas fiscais, recebimento e controle de pneus, combustível e estoque de materiais."
+      },
+      {
+        "name": "Auxiliar Técnico em Segurança do Trabalho / ETM Engenharia",
+        "period": "2015 - 2016",
+        "description": "Inspeção de locais de trabalho, instalações e equipamentos. Elaboração de relatórios, orientação de
+        colaboradores, e investigação de incidentes."
+      },
+      {
+        "name": "Auxiliar Técnico em Segurança do Trabalho / NIPLAN Engenharia",
+        "period": "2014 - 2015",
+        "description": "Inspeção de locais de trabalho, instalações e equipamentos. Elaboração de relatórios, orientação de
+        colaboradores, e investigação de incidentes."
+      },
     ]
   }
