@@ -33,11 +33,11 @@ function updateHardSkills(profileData) {
 
 function updateLanguages(profileData) {
     const languages = document.getElementById('profile.languages')
-    languages.innerHTML = profileData.languages.map(language => {
+    languages.innerHTML = profileData.languages.map(element => {
         return `
-        <li>${languages.language}</li>
+        <li>${element.language}</li>
         <div class="w3-light-grey w3-round-xlarge">
-        <div class="w3-round-xlarge w3-deep-purple" style="height:24px;width:${languages.level}></div></div>
+        <div class="w3-round-xlarge w3-deep-purple" style="height:24px;width:${element.level}></div></div>
         `
     }).join('')
 }
