@@ -35,10 +35,10 @@ function updateLanguages(profileData) {
     const languages = document.getElementById('profile.languages')
     languages.innerHTML = profileData.languages.map(element => {
         return `
+        <section key=${element.language}>
         <li>${element.language}</li>
-        <div class="w3-light-grey w3-round-xlarge">
-        <div class="w3-round-xlarge w3-deep-purple" style="height:24px;width:${element.level}></div></div>
-        `
+        <div class="w3-light-grey w3-round-xlarge"> <div class="w3-round-xlarge w3-light-green" style="height:24px;width:${element.level}"/></div>
+        </section>`
     }).join('')
 }
 
